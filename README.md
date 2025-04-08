@@ -3,7 +3,12 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jvalshah/)](https://www.linkedin.com/in/jvalshah) [![Gmail Badge](https://img.shields.io/badge/-jval.n.shah@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jval.n.shah@gmail.com)](mailto:jval.n.shah@gmail.com)
 
-💬 Ask me about: **Python, Pytest, Playwright, Selenium, Cypress, AWS, SQL**
+💬 Ask me about:
+- Tech Stack: **Python, Pytest, Playwright, Selenium, Cypress, AWS, SQL**
+- Test Strategy and Planning
+- Test Estimation Efforts
+- Test Reporting
+- Release Delivery
 
 ## Programming Languages
 
@@ -58,4 +63,4 @@
 
 
 ## Resume
-:octocat: [Resume](https://drive.google.com/file/d/1tFL1gHFPw3MXzfW98oQEFjs2jQSGiVjw/view?usp=share_link)
+:octocat: [Resume](https://drive.google.com/file/d/1fVrS91E2vBleKEGeb_8QfV2RYIF_VwVh/view?usp=drive_link)
