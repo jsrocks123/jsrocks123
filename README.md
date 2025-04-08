@@ -52,7 +52,9 @@
 ## Container Platform Tools
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="48" height="48"/> </a>
 
-
+## Test Management Tools
+<a href="https://www.testrail.com/" target="_blank" rel="noreferrer"> <img src="https://www.testrail.com/wp-content/uploads/2022/12/TestRail_Logo_Main_01.svg" alt="testrail" width="48" height="48"/> </a>
+<a href="https://www.getxray.app/" target="_blank" rel="noreferrer"> <img src="https://www.getxray.app/hubfs/Xray-Logo-Website-150x61px-24.svg" alt="xray" width="48" height="48"/> </a>
 
 ## Other Tools
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="48" height="48"/> </a>
