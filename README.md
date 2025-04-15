@@ -63,6 +63,9 @@
 ## Connect with me
 <a href="https://linkedin.com/in/jvalshah" target="blank"> <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" height="30" width="40" /></a>
 
-
 ## Resume
 :octocat: [Resume](https://drive.google.com/file/d/1fVrS91E2vBleKEGeb_8QfV2RYIF_VwVh/view?usp=drive_link)
+
+## Fun Fact 
+<img src="https://github.com/user-attachments/assets/cfcd7a2b-6e39-4e21-86a3-7ca34fbe076d" height="48" alt="Monopoly"> Winner 2024 JaxParks MONOPOLY Tournament
+
